@@ -24,4 +24,4 @@ npx http-server
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
 ！[Dog](Dog.png)
-! [Dog Galaxy 2](Dog Galaxy 2.png)
+! [Dog Galaxy 2](DogGalaxy2.png)
