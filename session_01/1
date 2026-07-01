@@ -1,0 +1,15 @@
+let circleX=100;
+
+function setup(){
+    createCanvas(400,400);
+}
+
+function draw(){
+    background(0, 0, 220);
+    circle(circleX, 300, 50);
+
+    circleX = circleX + 100;
+
+    circle(circleX, 300, 50);
+    noLoop();
+}
