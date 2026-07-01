@@ -25,3 +25,10 @@ npx http-server
 - [p5.js Reference](https://p5js.org/reference/)
 ！[Dog](Dog.png)
 ! [Dog Galaxy 2](DogGalaxy2.png)
+
+
+### Reflection
+
+Today I learned how to load data and generate repeated patterns in p5.js.
+I tried different layouts and colors until I found a result that looked like a galaxy.
+This exercise helped me understand how code can create complex visual effects from simple rules.
