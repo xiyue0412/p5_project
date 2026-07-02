@@ -24,3 +24,7 @@ npx http-server
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
 ![ME](ME.png)
+
+### Reflection
+
+Today I created a simple self-portrait using basic shapes in p5.js. I experimented with colors, circles, triangles and lines to build a clean and friendly design. It was interesting to see how simple geometric shapes can come together to form a recognizable face. This project helped me practice composition and creative coding.
