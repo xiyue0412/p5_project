@@ -25,3 +25,7 @@ npx http-server
 - [p5.js Reference](https://p5js.org/reference/)
 ![Cat](2.png)
 ![Animal2](Animal2.png)
+
+### Reflection
+
+Today I created a simple cat using basic shapes in p5.js. I used circles, ellipses, and triangles to build the body and face. I also added soft colors to make the cat look cute and friendly. This project helped me understand how simple geometric shapes can be combined to create a complete character.
