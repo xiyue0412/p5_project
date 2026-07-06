@@ -23,3 +23,10 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
+- [Mouse1](Mouse1.png)
+- [Mouse2](Mouse2.png)
+
+
+## Reflection
+
+Today I created an interactive dog drawing tool using p5.js. I experimented with images, mouse interaction and animation to make the experience more playful. It was interesting to see how simple interactions could completely change the composition. This project helped me better understand how to combine creativity with coding.
