@@ -23,3 +23,9 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
+- [Face1](Face1.png)
+- [Face2](Face2.png)
+
+# Refalction
+
+At first I had trouble getting the face tracking to work because the camera and library were not working together. I spent some time fixing the code and testing different solutions. After a few tries, I finally made the interactive effect work, and it was satisfying to see the result.
