@@ -1,3 +1,49 @@
+# Session 08 AI
+
+## Lab 2 - AI Ethics Research
+
+### Model
+
+ChatGPT (OpenAI)
+
+### 1. Does the company address ethical issues?
+
+Yes. OpenAI explains how people should use ChatGPT, what content is not allowed and how it tries to make AI safer.
+
+### 2. How was the training data collected?
+
+OpenAI says ChatGPT is trained using public information, licensed data and data created by human trainers.
+
+### 3. Are there any limitations on use?
+
+Yes. Users cannot use ChatGPT for illegal activities, harmful content or scams.
+
+### 4. Are there any warnings or safeguards?
+
+Yes. ChatGPT warns that it can make mistakes and refuses some unsafe requests. It also has safety rules for image generation.
+
+### 5. Do you think the policy is enough?
+
+I think it is good, but not perfect. It helps reduce harmful use, but AI can still make mistakes.
+
+### 6. What parts of the policy are good?
+
+I think the privacy settings, safety filters and clear rules are useful.
+
+### 7. What dangers are not fully addressed?
+
+AI can still give incorrect information or biased answers. Copyright is also still an issue. These problems may affect artists, writers and students more.
+
+### 8. What does the company say about liability?
+
+OpenAI says users are responsible for how they use ChatGPT and should not rely on it for important decisions.
+
+### 9. Does it follow the UK Data and AI Ethics Framework?
+
+Mostly yes, but I think it could be more transparent about its training data.
+
+---
+
 # AI Image Generation - Interior Design
 
 ## Project
