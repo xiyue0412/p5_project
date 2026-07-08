@@ -21,6 +21,7 @@ Resources
 
 p5.js 2.0
 p5.js Reference ME ME2
+
 Reflection
 
 Today I created a simple self-portrait using basic shapes in p5.js. I experimented with colors, circles, triangles and lines to build a clean and friendly design. It was interesting to see how simple geometric shapes can come together to form a recognizable face. This project helped me practice composition and creative coding.
