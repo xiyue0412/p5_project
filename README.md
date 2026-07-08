@@ -1,14 +1,14 @@
-# Session 01 ME
-p5_project
+# p5_project
 
-Getting Started
+## Getting Started
 
-Open index.html in your web browser and start editing sketch.js.
+Open `index.html` in your web browser and start editing `sketch.js`.
 
-Running Locally
+## Running Locally
 
 For projects with media files, use a local server:
 
+```bash
 # Using Python
 python -m http.server 8000
 
@@ -17,12 +17,16 @@ npx http-server
 
 # Using VS Code Live Server extension
 # Right-click index.html -> "Open with Live Server"
-Resources
+```
 
-p5.js 2.0
-p5.js Reference ME ME2
+## Resources
 
-Reflection
+- [p5.js 2.0](https://beta.p5js.org/)
+- [p5.js Reference](https://p5js.org/reference/)
+![ME](ME.png)
+![ME2](ME2.png)
+
+### Reflection
 
 Today I created a simple self-portrait using basic shapes in p5.js. I experimented with colors, circles, triangles and lines to build a clean and friendly design. It was interesting to see how simple geometric shapes can come together to form a recognizable face. This project helped me practice composition and creative coding.
 
