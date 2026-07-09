@@ -189,7 +189,7 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
-- ![Camera](Session-06%20Camera/Camera/Camera.png)
+- ![Camera](Session-06%20Camera/Camera/Camera1.png)
 - ![Camera2](Session-06%20Camera/Camera/Camera2.png)
   
 # Reflection
