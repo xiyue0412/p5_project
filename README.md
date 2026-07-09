@@ -121,8 +121,8 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
-！[Dog](Dog.png)
-! [Dog Galaxy 2](DogGalaxy2.png)
+- ![Dog](Session-04%20Data/04/Dog.png)
+- ![DogGalaxy](Session-04%20Data/04/DogGalaxy2.png)
 
 
 ### Reflection
