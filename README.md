@@ -57,10 +57,8 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
-  
-## Screenshots
-![Animal](Animal2.png)
-![Code](2.png)
+- ![Animal 1](Session-02%20Animal%20copy/2%20copy/2.png)
+- ![Animal 2](Session-02%20Animal%20copy/2%20copy/Animal2.png)
 
 ### Reflection
 
