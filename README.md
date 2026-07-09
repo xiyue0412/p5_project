@@ -1,5 +1,4 @@
 # Session 01 ME
-# p5_project
 
 ## Getting Started
 
@@ -195,6 +194,38 @@ npx http-server
 # Reflection
 
 Today I made a dog selfie filter with a webcam. I tried using buttons and a slider for the first time, and it was fun to see how small changes could affect the screen. It took me a while to make everything work, but I learned more about interaction in p5.js.
+
+# Session 07 Emotion
+
+## Getting Started
+
+Open `index.html` in your web browser and start editing `sketch.js`.
+
+## Running Locally
+
+For projects with media files, use a local server:
+
+```bash
+# Using Python
+python -m http.server 8000
+
+# Using Node.js
+npx http-server
+
+# Using VS Code Live Server extension
+# Right-click index.html -> "Open with Live Server"
+```
+
+## Resources
+
+- [p5.js 2.0](https://beta.p5js.org/)
+- [p5.js Reference](https://p5js.org/reference/)
+- ![Face1](Session%207%20Emotion/Emotion/Face1.png)
+- ![Face2](Session%207%20Emotion/Emotion/Face2.png)
+
+# Refalction
+
+At first I had trouble getting the face tracking to work because the camera and library were not working together. I spent some time fixing the code and testing different solutions. After a few tries, I finally made the interactive effect work, and it was satisfying to see the result.
 
 # Session 08 AI
 
