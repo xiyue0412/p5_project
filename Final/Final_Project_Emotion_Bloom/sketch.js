@@ -266,9 +266,6 @@ function drawDog(x, y) {
   textSize(72);
   text("🐶", 0, 0);
 
-  textSize(13);
-  text("RIGHT HAND", 0, 58);
-
   pop();
 }
 
@@ -292,9 +289,6 @@ function drawCat(x, y) {
   fill(255);
   textSize(72);
   text("🐱", 0, 0);
-
-  textSize(13);
-  text("LEFT HAND", 0, 58);
 
   pop();
 }
