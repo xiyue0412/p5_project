@@ -489,8 +489,8 @@ The hardest part was using FaceMesh and HandPose together. At first, the trackin
 ---
 
 ## Screenshot
-![flower 1](flower%201.png)
-![flower 2](2.png)
+<img width="645" height="488" alt="flower 1" src="https://github.com/user-attachments/assets/bcaaa2b8-9f7f-488a-a526-4d8a1b0011d6" />
+<img width="640" height="482" alt="2" src="https://github.com/user-attachments/assets/69823324-c4e3-4319-9d3b-df19fcc87c0e" />
 
 ## Reflection
 
