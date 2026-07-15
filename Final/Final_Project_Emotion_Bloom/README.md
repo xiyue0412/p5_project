@@ -68,6 +68,10 @@ The hardest part was using FaceMesh and HandPose together. At first, the trackin
 
 ---
 
+## Screenshot
+![flower 1](flower%201.png)
+![flower 2](2.png)
+
 ## Reflection
 
 This project helped me learn more about creative coding and machine learning. Before this, I mostly made simple interactive sketches, but this project let me combine face tracking, hand tracking, animation and sound together. If I continue working on it, I would like to add more flowers, more animals and different backgrounds so the interaction feels even richer.
