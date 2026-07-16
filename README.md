@@ -445,8 +445,8 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
-![Lab1](Lab1.png)
-![Lab2](Lab2.png)
+![](Lab2/Lab1.png)
+![](Lab2/Lab2.png)
 
 ## Reflection
 
