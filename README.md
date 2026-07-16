@@ -445,8 +445,9 @@ npx http-server
 
 - [p5.js 2.0](https://beta.p5js.org/)
 - [p5.js Reference](https://p5js.org/reference/)
-![](Lab2/Lab1.png)
-![](Lab2/Lab2.png)
+<img width="657" height="596" alt="Lab2" src="https://github.com/user-attachments/assets/00ffbc18-c76a-4ea9-8a48-7b238d20ef08" />
+<img width="1512" height="1039" alt="Lab1" src="https://github.com/user-attachments/assets/9a753fb9-8d0f-4e40-9e76-685f5796d90d" />
+
 
 ## Reflection
 
